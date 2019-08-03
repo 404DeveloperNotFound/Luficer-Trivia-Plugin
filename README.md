@@ -1,1 +1,0 @@
-# Luficer-Trivia-Plugin
